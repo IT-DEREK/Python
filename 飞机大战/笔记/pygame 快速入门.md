@@ -390,7 +390,7 @@ while True:
     * `pygame.sprite.Sprite` —— 存储 **图像数据 image** 和 **位置 rect** 的 **对象**
     * `pygame.sprite.Group`
 
-![006_pygame.Sprite](media/15025046487919/006_pygame.Sprite.png)
+![006_pygame.Sprite](https://github.com/IT-DEREK/Python/blob/master/%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98/images/006_pygame.Sprite.png)
 
 #### 精灵
 
