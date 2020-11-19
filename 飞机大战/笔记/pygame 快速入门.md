@@ -243,8 +243,8 @@ pygame.display.update()
 * 一般在电脑上 **每秒绘制 60 次**，就能够达到非常 **连续** **高品质** 的动画效果
     * 每次绘制的结果被称为 **帧 Frame**
 
-![手翻书动画](media/15025046487919/%E6%89%8B%E7%BF%BB%E4%B9%A6%E5%8A%A8%E7%94%BB.gif)
-![猫惊讶](media/15025046487919/%E7%8C%AB%E6%83%8A%E8%AE%B6.gif)
+![手翻书动画](https://github.com/IT-DEREK/Python/blob/master/%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98/images/%E6%89%8B%E7%BF%BB%E4%B9%A6%E5%8A%A8%E7%94%BB.gif)
+![猫惊讶](https://github.com/IT-DEREK/Python/blob/master/%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98/images/%E7%8C%AB%E6%83%8A%E8%AE%B6.gif)
 
 ### 3.2 **游戏循环**
 
@@ -252,7 +252,7 @@ pygame.display.update()
 
 > **游戏循环的开始** 就意味着 **游戏的正式开始**
 
-![005_游戏主模块-w600](media/15025046487919/005_%E6%B8%B8%E6%88%8F%E4%B8%BB%E6%A8%A1%E5%9D%97.png)
+![005_游戏主模块-w600](https://github.com/IT-DEREK/Python/blob/master/%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98/images/005_%E6%B8%B8%E6%88%8F%E4%B8%BB%E6%A8%A1%E5%9D%97.png)
 
 #### 游戏循环的作用
 
